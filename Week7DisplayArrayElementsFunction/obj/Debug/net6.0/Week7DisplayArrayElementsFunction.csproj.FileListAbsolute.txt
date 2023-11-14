@@ -1,0 +1,14 @@
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\bin\Debug\net6.0\Week7DisplayArrayElementsFunction.exe
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\bin\Debug\net6.0\Week7DisplayArrayElementsFunction.deps.json
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\bin\Debug\net6.0\Week7DisplayArrayElementsFunction.runtimeconfig.json
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\bin\Debug\net6.0\Week7DisplayArrayElementsFunction.dll
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\bin\Debug\net6.0\Week7DisplayArrayElementsFunction.pdb
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\obj\Debug\net6.0\Week7DisplayArrayElementsFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\obj\Debug\net6.0\Week7DisplayArrayElementsFunction.AssemblyInfoInputs.cache
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\obj\Debug\net6.0\Week7DisplayArrayElementsFunction.AssemblyInfo.cs
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\obj\Debug\net6.0\Week7DisplayArrayElementsFunction.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\obj\Debug\net6.0\Week7DisplayArrayElementsFunction.dll
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\obj\Debug\net6.0\refint\Week7DisplayArrayElementsFunction.dll
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\obj\Debug\net6.0\Week7DisplayArrayElementsFunction.pdb
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\obj\Debug\net6.0\Week7DisplayArrayElementsFunction.genruntimeconfig.cache
+C:\Users\Daria\source\repos\Week7Functions\Week7DisplayArrayElementsFunction\obj\Debug\net6.0\ref\Week7DisplayArrayElementsFunction.dll

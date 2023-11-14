@@ -1,0 +1,14 @@
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\bin\Debug\net6.0\Week7CalculatorWithFunctions.exe
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\bin\Debug\net6.0\Week7CalculatorWithFunctions.deps.json
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\bin\Debug\net6.0\Week7CalculatorWithFunctions.runtimeconfig.json
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\bin\Debug\net6.0\Week7CalculatorWithFunctions.dll
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\bin\Debug\net6.0\Week7CalculatorWithFunctions.pdb
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\obj\Debug\net6.0\Week7CalculatorWithFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\obj\Debug\net6.0\Week7CalculatorWithFunctions.AssemblyInfoInputs.cache
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\obj\Debug\net6.0\Week7CalculatorWithFunctions.AssemblyInfo.cs
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\obj\Debug\net6.0\Week7CalculatorWithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\obj\Debug\net6.0\Week7CalculatorWithFunctions.dll
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\obj\Debug\net6.0\refint\Week7CalculatorWithFunctions.dll
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\obj\Debug\net6.0\Week7CalculatorWithFunctions.pdb
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\obj\Debug\net6.0\Week7CalculatorWithFunctions.genruntimeconfig.cache
+C:\Users\Daria\source\repos\Week7Functions\Week7CalculatorWithFunctions\obj\Debug\net6.0\ref\Week7CalculatorWithFunctions.dll
